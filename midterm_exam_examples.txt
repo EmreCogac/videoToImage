@@ -1,0 +1,503 @@
+1. Bilgi edinme yollarından hangisi, bireyin bizzat tecrübe ederek öğrendiği bilgi türüdür?
+
+    A) Uzman görüşü
+    B) Görüş birliği
+    C) Deneyim
+    D) Mantık
+
+Cevap: C) Deneyim
+
+2. Aşağıdaki seçeneklerden hangisi bilimsel yöntemin aşamalarından biri değildir?
+
+    A) Problem belirleme
+    B) Hipotez geliştirme
+    C) Rastgele gözlem yapma
+    D) Veri toplama ve analiz etme
+
+Cevap: C) Rastgele gözlem yapma
+
+3. Aşağıdaki ifadelerden hangisi “bilimsel gözlem” ile “deney” arasındaki farklardan biridir?
+
+    A) Deneyde doğal akış izlenir, gözlemde ise müdahale yapılır.
+    B) Gözlem, deneyden daha sistematik ve tekrarlanabilirdir.
+    C) Deneyde doğanın akışına müdahale edilirken, gözlemde müdahale edilmez.
+    D) Gözlem ve deney arasındaki fark yoktur, ikisi de bilimsel yöntemdir.
+
+Cevap: C) Deneyde doğanın akışına müdahale edilirken, gözlemde müdahale edilmez.
+
+4. Aşağıdakilerden hangisi bilimin işlevlerinden biri olarak kabul edilmez?
+
+    A) Anlama
+    B) Yordama
+    C) Kontrol
+    D) Deneme yanılma
+
+Cevap: D) Deneme yanılma
+
+5. Hangi bilimsel ölçüt, araştırma sonuçlarının farklı bilim insanları tarafından tekrarlandığında aynı sonuçları vermesini ifade eder?
+
+    A) Gözlenebilirlik
+    B) Ölçülebilirlik
+    C) Tekrarlanabilirlik
+    D) İletilebilirlik
+
+Cevap: C) Tekrarlanabilirlik
+
+6. Aşağıdaki araştırma türlerinden hangisi zaman içinde bir bireyin gelişimini izlemeye yönelik çalışmalara örnektir?
+
+    A) Anlık araştırma
+    B) Kesitsel araştırma
+    C) Boylamsal araştırma
+    D) Deneysel araştırma
+
+Cevap: C) Boylamsal araştırma
+
+7. Hangi veri toplama tekniği doğrudan anket ve gözlem gibi yöntemlerle toplanan birincil veriler üzerinde yoğunlaşır?
+
+    A) Belgesel araştırma
+    B) Görgül araştırma
+    C) İkincil veri araştırması
+    D) Temel araştırma
+
+Cevap: B) Görgül araştırma
+
+8. Aşağıdakilerden hangisi bilimsel araştırmaların sınıflandırılmasında kullanılan “bakış açısı” türlerinden biridir?
+
+    A) Anlık araştırmalar
+    B) Boylamsal araştırmalar
+    C) Nitel araştırmalar
+    D) Belgesel araştırmalar
+
+Cevap: C) Nitel araştırmalar
+
+9. Bilimsel yöntemde hipotez kurma aşamasının amacı nedir?
+
+    A) Problemi tanımlamak
+    B) Araştırmayı sonuçlandırmak
+    C) Olgular arasında ilişki kurmaya yönelik bir varsayım geliştirmek
+    D) Veri toplamaya başlamak
+
+Cevap: C) Olgular arasında ilişki kurmaya yönelik bir varsayım geliştirmek
+
+10. Bir bilimsel araştırmada aynı değişkenin farklı birimlerce ölçüldüğünde aynı sonuçları verip vermediğini kontrol eden bilimsel ölçüt hangisidir?
+
+    A) Geçerlilik
+    B) Güvenilirlik
+    C) Ölçülebilirlik
+    D) Tekrarlanabilirlik
+
+Cevap: B) Güvenilirlik
+
+11. Hangi bilimsel süreçte, doğal akışa müdahale edilerek belli koşullar altında olguların incelenmesi sağlanır?
+
+    A) Gözlem
+    B) Deney
+    C) Hipotez geliştirme
+    D) Veri analiz etme
+
+Cevap: B) Deney
+
+12. Aşağıdaki bilimsel kavramlardan hangisi, belirli şartlar altında yapılan tekrarlı deneyler sonucunda, akıl ve mantığa uygun kesin bilgi olarak kabul edilir?
+
+    A) Hipotez
+    B) Teori
+    C) Kanun
+    D) Öngörü
+
+Cevap: C) Kanun
+
+13. Bir araştırma sonucunun diğer bilim insanları tarafından incelenip aynı sonuçlara ulaşabilmesi bilimsel bilginin hangi özelliği ile ilgilidir?
+
+    A) Sağdanabilirlik
+    B) İletilebilirlik
+    C) Gözlenebilirlik
+    D) Anlamlılık
+
+Cevap: B) İletilebilirlik
+
+14. Bir olayın veya durumun çok sayıda denek üzerinde incelenmesi gerektiğinde hangi araştırma deseni tercih edilir?
+
+    A) Tek denekli desen
+    B) Çok denekli desen
+    C) Gruplar içi desen
+    D) Karışık desen
+
+Cevap: B) Çok denekli desen
+
+15. Bilimsel bilginin ölçülebilir olması, hangi özelliği taşımadığını gösterir?
+
+    A) Gözlenebilirlik
+    B) İletilebilirlik
+    C) Kesinlik
+    D) Öznellik
+
+Cevap: D) Öznellik
+
+16. Aşağıdaki seçeneklerden hangisi bilimsel bilginin “kontrol” işlevi ile ilgilidir?
+
+    A) Olayların ilişkilerini açıklama
+    B) Bilinmeyen durumları tahmin etme
+    C) Bilimsel sonuçların uygulamaya aktarılmasıyla değişkenlerin yönetilmesi
+    D) Hipotez geliştirme
+
+Cevap: C) Bilimsel sonuçların uygulamaya aktarılmasıyla değişkenlerin yönetilmesi
+
+1. Bilim nedir?
+
+    A) Bilgi toplama süreci
+    B) Deney ve gözleme dayanan, çevreyi anlama çabalarının bütünüdür
+    C) Toplumsal olayları yorumlama süreci
+    D) Kişisel deneyimlerin aktarımıdır
+
+Cevap: B) Deney ve gözleme dayanan, çevreyi anlama çabalarının bütünüdür
+
+2. Bilimsel araştırmanın temel amacı nedir?
+
+    A) Kişisel yargılar üretmek
+    B) Var olan bilgileri tekrar etmek
+    C) Problem çözerek güvenilir bilgiye ulaşmak
+    D) Otoritelerden bilgi almak
+
+Cevap: C) Problem çözerek güvenilir bilgiye ulaşmak
+
+3. Aşağıdakilerden hangisi bilimsel yöntemin bir özelliğidir?
+
+    A) Tarafsız ve eleştirici
+    B) Kişisel görüşlere dayalı
+    C) Hızlı sonuç elde edilmesi
+    D) Ezberleme esaslı
+
+Cevap: A) Tarafsız ve eleştirici
+
+4. Hangi bilgi edinme yolu, geleneksel olarak kuşaktan kuşağa aktarılan bilgilerden oluşur?
+
+    A) Otorite
+    B) Medya araçları
+    C) Sağduyu
+    D) Gelenekler
+
+Cevap: D) Gelenekler
+
+5. Bilimsel araştırmada teknolojinin rolü nedir?
+
+    A) Sosyal olayları açıklamak
+    B) Teoriler geliştirmek için bilgiyi uygulamak
+    C) Duygusal deneyim sağlamak
+    D) Otoritelerden bağımsız bilgi üretmek
+
+Cevap: B) Teoriler geliştirmek için bilgiyi uygulamak
+
+6. Nicel araştırma yöntemi aşağıdakilerden hangisini sağlar?
+
+    A) Sosyal olayların derinlemesine incelenmesi
+    B) Sayısal verilerin analiz edilmesi
+    C) Kişisel deneyimlerin aktarılması
+    D) Nitel ilişkilerin keşfedilmesi
+
+Cevap: B) Sayısal verilerin analiz edilmesi
+
+7. Aşağıdaki seçeneklerden hangisi bilimsel yöntemin temel niteliklerinden biridir?
+
+    A) Duygusal temelli olması
+    B) Ezberleme odaklı olması
+    C) Açık ve seçik olması
+    D) Tekrarlanamaz olması
+
+Cevap: C) Açık ve seçik olması
+
+8. Hangi araştırma yöntemi olayları doğal ortamında ve bütüncül bir bakış açısıyla ele alır?
+
+    A) Deneysel yöntem
+    B) Nicel araştırma
+    C) Tümevarım yöntemi
+    D) Nitel araştırma
+
+Cevap: D) Nitel araştırma
+
+9. Aşağıdakilerden hangisi proje önerisinde yer alması gereken ana unsurlardan biridir?
+
+    A) Yalnızca bütçe planlaması
+    B) Projenin gerekçesi, faaliyetler ve insan kaynakları
+    C) Tek başına hipotez açıklaması
+    D) Projeyi yürüten kişinin özgeçmişi
+
+Cevap: B) Projenin gerekçesi, faaliyetler ve insan kaynakları
+
+10. Literatür taramasının bilimsel araştırmadaki rolü nedir?
+
+    A) Yalnızca yeni bilgi üretmek
+    B) Önceki çalışmaların gözden geçirilmesi ve bilgi edinilmesi
+    C) Hipotezlerin çürütülmesi
+    D) Yazarların kişisel deneyimlerinin öne çıkarılması
+
+Cevap: B) Önceki çalışmaların gözden geçirilmesi ve bilgi edinilmesi
+
+11. Bilgi edinme yollarından hangisi çabuk, basit ve ucuz olmakla birlikte yanıltıcı da olabilir?
+
+    A) Deneyim
+    B) Sağduyu
+    C) Otorite
+    D) Medya araçları
+
+Cevap: C) Otorite
+
+12. Bilimsel araştırma sürecinde kullanılan "hipotez" kavramı aşağıdakilerden hangisini ifade eder?
+
+    A) Bilimsel kanunların özeti
+    B) Deneyim sonucu ulaşılan sonuçlar
+    C) Araştırmada sınanması gereken geçici bir açıklama
+    D) Veri toplama yöntemleri
+
+Cevap: C) Araştırmada sınanması gereken geçici bir açıklama
+
+13. Bilimsel bir projede yer alması gereken temel özelliklerden hangisi aşağıda verilmiştir?
+
+    A) Belirli bir sürede tamamlanması
+    B) Çeşitli kaynaklardan bilgi toplanması
+    C) Gözlemlerle kanıtlanması
+    D) Bilim insanları tarafından desteklenmesi
+
+Cevap: A) Belirli bir sürede tamamlanması
+
+14. Nicel araştırmaların temel özelliklerinden biri aşağıdakilerden hangisidir?
+
+    A) Hipotez üretmek yerine sonuçlar gözlemlenir
+    B) Nesnel, sayısal verilerle analiz yapılır
+    C) Doğal ortamda gözlem yapılır
+    D) Kavramsal bilgiler kullanılır
+
+Cevap: B) Nesnel, sayısal verilerle analiz yapılır
+
+15. Bilimsel yöntemde, bir olay veya durum hakkında ilk varsayımlar yapılırken kullanılan yöntem aşağıdakilerden hangisidir?
+
+    A) Tümdengelim
+    B) Tümevarım
+    C) Sağduyu
+    D) Medya kaynakları
+
+Cevap: B) Tümevarım
+
+16. "Bilimsel yöntemin evrenselliği" ifadesi ne anlama gelmektedir?
+
+    A) Tüm bilim insanlarının aynı sonuçları elde etmesi
+    B) Bilimsel yöntemin tüm disiplinlerde geçerli bir yöntem olarak kabul edilmesi
+    C) Bilimsel çalışmanın yalnızca bir alanda yapılması
+    D) Çeşitli kaynaklardan bilgi toplanması
+
+Cevap: B) Bilimsel yöntemin tüm disiplinlerde geçerli bir yöntem olarak kabul edilmesi
+
+17. Bilimsel araştırmanın amacı nedir?
+
+    A) Bilimsel süreçlerin karmaşıklığını göstermek
+    B) Varsayımları kanıtlamak
+    C) Problemleri çözerek güvenilir bilgiye ulaşmak
+    D) Yalnızca mevcut bilgileri yinelemek
+
+Cevap: C) Problemleri çözerek güvenilir bilgiye ulaşmak
+
+18. Proje döngüsünün aşamalarından biri olan "ön değerlendirme" hangi süreci içerir?
+
+    A) Proje uygulamasının başlatılmasını
+    B) Projenin teknik ve mali açılardan değerlendirilmesi
+    C) Proje fikrinin oluşturulmasını
+    D) Proje sonuçlarının raporlanmasını
+
+Cevap: B) Projenin teknik ve mali açılardan değerlendirilmesi
+
+19. Literatür taramasında birincil kaynaklar için verilen örneklerden hangisi doğrudur?
+
+    A) Gazete makaleleri
+    B) Bilimsel dergilerde yayımlanmış orijinal araştırmalar
+    C) Ansiklopedi makaleleri
+    D) Popüler bilim dergileri
+
+Cevap: B) Bilimsel dergilerde yayımlanmış orijinal araştırmalar
+
+20. "Mantıksal Çerçeve Yaklaşımı" projenin hangi yönünü destekler?
+
+    A) Varsayımlar ve hedefler arasındaki ilişkiyi kurmak
+    B) Yalnızca bütçeyi kontrol etmek
+    C) Proje süresini belirlemek
+    D) Proje ekibinin değerlendirilmesini yapmak
+
+Cevap: A) Varsayımlar ve hedefler arasındaki ilişkiyi kurmak
+
+1. Bilimsel araştırma sürecinde "problem" ifadesi ne anlama gelir?
+
+    A) Çözülemeyen bir sorun
+    B) Araştırma sürecinin en karmaşık aşaması
+    C) Araştırmanın temel aldığı, çözüm aranan durum
+    D) Araştırma boyunca ortaya çıkan her türlü engel
+
+Cevap: C) Araştırmanın temel aldığı, çözüm aranan durum
+
+2. Aşağıdakilerden hangisi bilimsel araştırma sürecinde bir hipotezdir?
+
+    A) Var olan bilgiler
+    B) Sınanabilir bir varsayım
+    C) Gözlemlenen tüm sonuçlar
+    D) Hipotezin test edilmesi
+
+Cevap: B) Sınanabilir bir varsayım
+
+3. Literatür taramasının bilimsel araştırmadaki amacı nedir?
+
+    A) Yeni bilgi toplamak
+    B) Araştırma konusuyla ilgili önceki çalışmaları incelemek
+    C) Bilim insanlarının görüşlerini almak
+    D) Verilerin sınıflandırılması
+
+Cevap: B) Araştırma konusuyla ilgili önceki çalışmaları incelemek
+
+4. Aşağıdakilerden hangisi bilimsel araştırmanın önemli özelliklerinden biridir?
+
+    A) Varsayımları sorgulamadan kabul etme
+    B) Objektif ve sistematik bir yapıya sahip olma
+    C) Tek bir kişi tarafından yapılması
+    D) Hipotez olmadan veri toplama
+
+Cevap: B) Objektif ve sistematik bir yapıya sahip olma
+
+5. Bilimsel araştırmada “yöntem” neyi ifade eder?
+
+    A) Bilim insanlarının hipotezlerini açıklama şekli
+    B) Verilerin nasıl toplanıp analiz edileceğini belirten süreç
+    C) Gözlemlerden sonuç çıkarmak
+    D) Bilim insanlarının bir araya gelme süreci
+
+Cevap: B) Verilerin nasıl toplanıp analiz edileceğini belirten süreç
+
+6. Aşağıdakilerden hangisi bir araştırma problemini belirleme sürecinde yapılması gereken ilk adımdır?
+
+    A) Verileri analiz etmek
+    B) Önceki çalışmaları incelemek
+    C) Hipotezi test etmek
+    D) Araştırmayı sonlandırmak
+
+Cevap: B) Önceki çalışmaları incelemek
+
+7. Bir bilimsel araştırmada “kontrol grubu” hangi amaçla kullanılır?
+
+    A) Deneklerin tümüne aynı işlemi uygulamak için
+    B) Deneysel grubun sonuçlarını karşılaştırmak için
+    C) Hipotez geliştirmek için
+    D) Verileri analiz etme sürecini hızlandırmak için
+
+Cevap: B) Deneysel grubun sonuçlarını karşılaştırmak için
+
+8. Hangi araştırma türü, bir olayın neden-sonuç ilişkisini anlamaya yönelik olarak gerçekleştirilir?
+
+    A) Tanımlayıcı araştırma
+    B) Deneysel araştırma
+    C) Tarihi araştırma
+    D) Alan araştırması
+
+Cevap: B) Deneysel araştırma
+
+9. Bilimsel araştırmalarda “veri analizi” hangi aşamada yapılır?
+
+    A) Hipotez geliştirme aşamasında
+    B) Verilerin toplanmasından sonra
+    C) Problem belirleme aşamasında
+    D) Deneysel aşamanın en başında
+
+Cevap: B) Verilerin toplanmasından sonra
+
+10. Bilimsel araştırmalarda, literatür taramasının amacı aşağıdakilerden hangisidir?
+
+    A) Araştırma sürecine yeni hipotezler eklemek
+    B) Araştırmanın sonucunu doğrudan etkilemek
+    C) Önceki çalışmalarla benzerlikleri ve farklılıkları anlamak
+    D) Verilerin analiz yöntemlerini değiştirmek
+
+Cevap: C) Önceki çalışmalarla benzerlikleri ve farklılıkları anlamak
+
+11. Bilimsel araştırmalarda, araştırmacının varsayımlarının objektif bir şekilde sınanması için hangi yöntem önemlidir?
+
+    A) Otoriteye dayalı bilgi
+    B) Deneysel yöntem
+    C) Geleneksel bilgi
+    D) Medya araçlarıyla bilgi toplama
+
+Cevap: B) Deneysel yöntem
+
+12. Aşağıdakilerden hangisi bilimsel bir araştırmanın temel özelliklerinden biri olarak kabul edilir?
+
+    A) Öznelliğe dayalı olması
+    B) Tahminlere dayanması
+    C) Yalnızca deneysel veri toplaması
+    D) Sistematik bir süreç izlemesi
+
+Cevap: D) Sistematik bir süreç izlemesi
+
+13. Hangi bilgi edinme yolu, bilimsel bilginin oluşmasında en az güvenilir kaynak olarak kabul edilir?
+
+    A) Deney
+    B) Mantık
+    C) Otorite
+    D) Bilim
+
+Cevap: C) Otorite
+
+14. Bilimsel araştırmada hipotezin geçerliliği hangi aşamada test edilir?
+
+    A) Veri toplama aşamasında
+    B) Problem tanımlama aşamasında
+    C) Literatür taraması aşamasında
+    D) Veri analizi aşamasında
+
+Cevap: D) Veri analizi aşamasında
+
+15. Bilimsel bir araştırmanın amacı nedir?
+
+    A) Bilim insanlarının görüşlerini toplamak
+    B) Geçmiş bilgileri tekrar etmek
+    C) Doğal olayları anlamak ve açıklamak
+    D) Sadece teorik bilgi biriktirmek
+
+Cevap: C) Doğal olayları anlamak ve açıklamak
+
+16. Araştırmada hipotez geliştirildikten sonra yapılacak ilk işlem aşağıdakilerden hangisidir?
+
+    A) Hipotezi doğrulamak
+    B) Verileri analiz etmek
+    C) Veri toplama yöntemlerini belirlemek
+    D) Araştırmayı sonlandırmak
+
+Cevap: C) Veri toplama yöntemlerini belirlemek
+
+17. Deneysel araştırmalarda "bağımlı değişken" neyi ifade eder?
+
+    A) Araştırmacının manipüle ettiği değişkeni
+    B) Diğer değişkenlere göre değişen sonucu
+    C) Gözlemlenemeyen faktörü
+    D) Araştırmanın hipotezini
+
+Cevap: B) Diğer değişkenlere göre değişen sonucu
+
+18. Bilimsel araştırmada geçerlilik kavramı neyi ifade eder?
+
+    A) Araştırmanın tekrarlanabilirliğini
+    B) Sonuçların doğru ve amaca uygun olup olmadığını
+    C) Deney sonuçlarının güvenilirliğini
+    D) Verilerin toplanma sıklığını
+
+Cevap: B) Sonuçların doğru ve amaca uygun olup olmadığını
+
+19. Aşağıdaki seçeneklerden hangisi bilimsel bilgiye ulaşmada gözlemin bir avantajıdır?
+
+    A) Gözlemler yalnızca doğal ortamlarda yapılır
+    B) Gözlemler sadece nitel veri sağlar
+    C) Nesnel ve doğrudan bilgi sağlar
+    D) Sadece tek bir gözlemci tarafından yapılabilir
+
+Cevap: C) Nesnel ve doğrudan bilgi sağlar
+
+20. Nicel araştırmaların temel özelliklerinden biri aşağıdakilerden hangisidir?
+
+    A) Küçük örneklem grupları kullanması
+    B) Sayısal verilerle analiz yapılması
+    C) Veri toplama yöntemlerinin kişisel olması
+    D) Yorumların öznel olması
+
+Cevap: B) Sayısal verilerle analiz yapılması
